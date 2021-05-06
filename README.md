@@ -1,9 +1,9 @@
 # Project Information
-    * Name: Smartphone Price Prediction
-    * Description: Predicting price range of smartphone based on their specifications.
+    Name: Smartphone Price Prediction
+    Description: Predicting price range of smartphone based on their specifications.
 
 # Datasheet Informnation
-    * Features
+    Features
         - ID
         - Battery
         - Bluetooth
@@ -25,7 +25,7 @@
         - 3G
         - Touch Screen
         - Wifi
-    * Class
+    Class
         - Price Range
 
 # Algorithm Information

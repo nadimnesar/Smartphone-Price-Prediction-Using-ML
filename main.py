@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # Reading Dataset
 
-ds = pd.read_csv('../input/mobile-price-classification/train.csv')
+ds = pd.read_csv('https://github.com/nadimnesar/Smartphone-Price-Prediction-Using-ML/blob/main/Mobile%20Price%20Classification.csv')
 
 # Dividing Data into Features and Class as X and Y
 
